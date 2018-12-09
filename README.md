@@ -1,1 +1,2 @@
-# mydude
+# Probot ✨
+Epic Discord Bot
